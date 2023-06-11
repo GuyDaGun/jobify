@@ -117,32 +117,6 @@ h5 {
   font-size: 1.25rem;
 }
 
-small,
-.text-small {
-  font-size: var(--small-text);
-}
-
-a {
-  text-decoration: none;
-  letter-spacing: var(--letterSpacing);
-}
-a,
-button {
-  line-height: 1.15;
-}
-button:disabled {
-  cursor: not-allowed;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-.img {
-  width: 100%;
-  display: block;
-  object-fit: cover;
-}
 /* buttons */
 
 .btn {

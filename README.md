@@ -11,6 +11,12 @@ Install the dependencies by running the command 'npm run setup-production'.
 Run the command 'node server' to start the application.
 Navigate to localhost:5000 in your browser and enjoy.
 
+### Deployment
+
+this project is up and running using render.com and can be accessed in the following link:  
+
+https://jobify-xraa.onrender.com
+
 ### Usage
 Once you have installed Jobify, you can use it by following these steps:
 
@@ -25,10 +31,10 @@ Edit or delete an existing job application.
 ### Technologies
 Jobify was built using the following technologies:
 
-MongoDB
-Express
-React
-Node.js
+- MongoDB  
+- Express  
+- React  
+- Node.js  
 
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
